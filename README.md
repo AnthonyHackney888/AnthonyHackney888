@@ -1,6 +1,6 @@
 # Hi, I'm Anthony Hackney 
 
-A Software engineer that likes to play around with different technologies in languages such as Java, Python, MySQL, and Tensorflow.
+A Software engineer that likes to play around with different technologies and languages such as Java, Python, MySQL, and frameworks like Tensorflow.
 As well as a place where I can place solved probelms from Kattis.
 
 ## Contact
